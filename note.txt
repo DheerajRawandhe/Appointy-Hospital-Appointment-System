@@ -1,0 +1,18 @@
+user : 
+{
+     "name" : "dheeraj",
+    "email" : "dheeraj@gmail.com",
+    "password": "dheeraj@#123"
+}
+
+
+
+token :- "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ZjFlNDBkNjYxMDA1YzVhZDA5OWM4ZCIsImlhdCI6MTc3NzQ2MDIzN30.baEqCCLxF-5Z46Q5QwX-Gg0sNNO-vlOHv5rB0Foou9Q"
+
+
+Admin : 
+s{
+    
+  "email": "dheeraj@gmail.com",
+  "password": "dheeraj123"
+}
